@@ -9,3 +9,5 @@ azul.
 
 Se puede conectar el frontEnd con el contrato directamente
 
+Quicknode and Alchemy: Study**
+
