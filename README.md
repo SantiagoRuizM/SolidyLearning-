@@ -9,5 +9,10 @@ azul.
 
 Se puede conectar el frontEnd con el contrato directamente
 
-Quicknode and Alchemy: Study**
+Quicknode, Infra and Alchemy: Study**
+
+Smartcontract is a kind of Backend 
+
+Instead of using databases like Mongo, use existing Blockchain networks are used.
+
 
