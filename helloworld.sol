@@ -12,3 +12,4 @@ contract HelloWord{
         message = newMessage;
     }
 }
+
