@@ -7,3 +7,5 @@ Las consultas no gastan feed dentro de las redes, solo las funciones de escritur
 los contratos inteligentes. escritura definidas con el color Naranja y las de consulta definidas con el color 
 azul. 
 
+Se puede conectar el frontEnd con el contrato directamente
+
